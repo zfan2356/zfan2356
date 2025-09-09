@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 hello, I'm **zfan**, an enthusiast of **Machine Learning System**. Additionally, I'm an algorithm enthusiast and was awarded the **gold medal** in the ICPC Regional Contest. 
 
-🔭 I’m currently working on WeChat, as an LLM Infra Development Engineer.
+🔭 I’m currently working on WeChat, as an LLM Infra Development Engineer, focus on large-scale llm pretrain/rl infra, and cuda kernel develop.
 
 Let's discuss anytime!
