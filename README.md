@@ -18,4 +18,4 @@ hello, I'm zfan, an enthusiast of **Machine Learning System**. Additionally, I'm
 
 🔭 I’m currently working on WeChat, as an LLM Infra Development Engineer, focus on large-scale llm pretrain/rl infra, and cuda kernel develop.
 
-Let's discuss anytime!
+**more patient, more passion, more perpetuity**
