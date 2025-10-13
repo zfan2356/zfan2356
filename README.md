@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hello, I'm zfan, an enthusiast of **Machine Learning System**. Additionally, I'm an algorithm enthusiast and was awarded the gold medal in the ICPC Regional Contest. 
+hello, I'm zfan, an enthusiast of **Machine Learning System**. acm-icpc gold medalist.
 
 🔭 I’m currently working on WeChat, as an LLM Infra Development Engineer, focus on large-scale llm pretrain/rl infra, and cuda kernel develop.
 
